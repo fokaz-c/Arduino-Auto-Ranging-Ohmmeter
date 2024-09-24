@@ -1,12 +1,10 @@
----
-
 # FastAPI Serial Connection Project
 
 This project demonstrates how to create a FastAPI application that reads data from a serial port (e.g., an Arduino) using the `pyserial` library. The application provides REST endpoints to interact with the serial device and return data to the user.
 
 ## Project Structure
 
-```
+```plaintext
 /project-root/
 ├── /src/
 │   ├── __init__.py            # Marks the src directory as a package
@@ -147,5 +145,3 @@ pip install -r requirements.txt
 ## License
 
 This project is licensed under the MIT License.
-
----
