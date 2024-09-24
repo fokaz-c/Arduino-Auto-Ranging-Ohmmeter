@@ -1,0 +1,1 @@
+To run the server use "uvicorn main:app" 
